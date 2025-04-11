@@ -2,7 +2,8 @@
 layout: post
 title:  "Twenty Years of Web Development in RubyonRails, Time to Move on to AI Development!"
 date:   2025-04-11 10:42:30 +0530
-categories: web rubyonrails ai artificial-intelligence llm-development gpt
+categories: 
+  "ai-development"
 ---
 I found RubyonRails in August or September 2005 while searching for some technical help related to a bug in the web application I was developing in PHP. In October 2005 I developed an MVP, in Rails, for "American Housing Society" basically scaffolding some 200+ pages of their multiple data sources. At that time I guess that was the real strength of Rails to scaffold something really fast. No such feature was available back then either in PHP or Java. And running all scaffolding commands from CLI made it fun and very fast.
 
