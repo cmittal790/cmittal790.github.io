@@ -21,7 +21,8 @@
 title: Chetan Mittal
 email: chetan@mittaltiger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Chetan Mittal is the Founder and CEO of Mittaltiger Group based in India. This is his personal blog and a place for him to market and promote his independent consulting services re RubyonRails, DevOps, Fractional CTO, etc.
+  Chetan Mittal is the Founder and CEO of Mittaltiger Group based in India. 
+  This is his personal blog and a place for him to market and promote his independent consulting services re RubyonRails, DevOps, Fractional CTO, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cmittal79

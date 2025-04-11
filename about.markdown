@@ -11,10 +11,10 @@ Hello, my name is **Chetan Mittal**. I am Founder & CEO of India based business 
 - **July 2001 to October 2001** - Debt Collections Agent at some agency in Melbourne, Australia
 - **November 2001 to March 2002** - Licensed Tester at VicRoads Sunshine, Melbourne, Australia
 - **April 2002 to June 2004** - Java Consultant at DMR Consulting (Fujitsu Australia) in Melbourne, Australia
-- **July 2005 to Present** - Independent Consultant cum Fractional CTO - RubyLang, RubyonRails, ElixirLang, RustLang, DevOps, MVP Dev, etc.
-- **July 2005 to Present** - CEO & Founder - Mittaltiger Technologies
-- **April 2018 to Present** - CEO & Founder - Mittaltiger Enterprises
-- **April 2025 to Present** - CEO & Founder - Mittaltiger Globridge
+- **July 2005 to Present** - Independent Consultant cum Fractional CTO - RubyLang, RubyonRails, ElixirLang, RustLang, DevOps, MVP Dev, etc. - [Chetan Mittal Software Consulting](/all-products-and-services)
+- **July 2005 to Present** - CEO & Founder - [Mittaltiger Technologies](https://technologies.mittaltiger.com){:target="_blank"}
+- **April 2018 to Present** - CEO & Founder - [Mittaltiger Enterprises](https://enterprises.mittaltiger.com){:target="_blank"}
+- **April 2025 to Present** - CEO & Founder - [Mittaltiger Globridge](https://globridge.mittaltiger.com){:target="_blank"}
 
 ## Education
 
