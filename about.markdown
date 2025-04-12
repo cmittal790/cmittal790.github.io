@@ -14,7 +14,7 @@ Hello, my name is **Chetan Mittal**. I am Founder & CEO of India based business 
 - **July 2005 to Present** - ~~Independent Consultant cum Fractional CTO~~ Mentor - RubyLang, RubyonRails, ElixirLang, RustLang, DevOps, AI Dev, etc. - [Chetan Mittal Software Consulting](/all-products-and-services)
 - **July 2005 to Present** - CEO & Founder - [Mittaltiger Technologies](https://technologies.mittaltiger.com){:target="_blank"}
 - **April 2018 to Present** - CEO & Founder - [Mittaltiger Enterprises](https://enterprises.mittaltiger.com){:target="_blank"}
-- **April 2025 to Present** - CEO & Founder - [Mittaltiger Globridge](https://globridge.mittaltiger.com){:target="_blank"}
+- **April 2025 to Present** - CEO & Founder - [Mittaltiger Business Services](https://business-services.mittaltiger.com){:target="_blank"}
 
 ## Education
 
