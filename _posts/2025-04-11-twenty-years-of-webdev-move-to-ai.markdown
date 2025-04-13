@@ -1,8 +1,10 @@
 ---
-title: Twenty Years of Web Development in RubyonRails, Time to Move on to AI Development!
+title: "Twenty Years of Web Development in Ruby on Rails, Time to Move on to AI Development!"
+excerpt: >
+  From discovering Ruby on Rails in 2005 to exploring Generative AI in 2025, this post reflects on the evolution of web development—from scaffolding hundreds of pages via CLI to using natural language prompts to build entire websites. The future of coding might just be… not coding at all.
 layout: post
-date: '2025-04-11 10:42:30 +0530'
-categories: 
+date: 2025-04-11 10:42:30 +0530
+categories:
   - ai-development
 ---
 
