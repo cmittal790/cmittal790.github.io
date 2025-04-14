@@ -1,11 +1,9 @@
 ---
 title: 'AI Is Transforming SEO: New Strategies for Online Business Survival'
-excerpt: AI has dramatically changed how SEO works for online businesses. As featured
-  snippets and zero-click searches increase, traditional SEO tactics are losing effectiveness.
-  Discover what's actually working now and how to adapt your content strategy for
-  this AI-driven search landscape.
+excerpt: >
+  AI has dramatically changed how SEO works for online businesses. As featured snippets and zero-click searches increase, traditional SEO tactics are losing effectiveness. Discover what's actually working now and how to adapt your content strategy for this AI-driven search landscape.
 layout: post
-date: '2025-04-14 01:00:18 +0530'
+date: '2025-04-14'
 categories:
 - ai-and-seo
 ---

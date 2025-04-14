@@ -3,7 +3,7 @@ title: How US and China's Tariff War Could Benefit India
 excerpt: >
   As global supply chains shift in response to the US-China trade conflict, India finds itself at a strategic advantage. With a large consumer base, rising manufacturing capabilities, and growing geopolitical relevance, the nation is well-positioned to become a key alternative in the evolving global economy.
 layout: post
-date: '2025-04-13 10:42:30 +0530'
+date: '2025-04-13'
 categories:
 - tariff-wars
 ---
