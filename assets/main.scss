@@ -3,3 +3,9 @@
 ---
 
 @import "minima";
+
+mark {
+  border-radius: 1.4em 0 2em;
+  background: transparent;
+  background-image: linear-gradient(-100deg, hsla(48, 94%, 68%, .3), hsla(48, 94%, 68%, .7) 95%, hsla(48, 94%, 68%, .1));
+}
